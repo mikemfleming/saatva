@@ -4,7 +4,7 @@ Saatva News is powered by React and Express. It uses [Redux](https://redux.js.or
 
 If your machine is running a different version, [NVM](https://github.com/creationix/nvm) is a good utility that manages Node versions and might be useful. 
 
-To start Saatva news locally, run the following:
+To start Saatva News locally, run the following:
 ```
 npm i # install dependencies
 
